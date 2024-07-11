@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testclasses><clavritfacades><testclass>com.hybris.clavrit.facades.suggestion.DefaultSimpleSuggestionFacadeIntegrationTest</testclass><testclass>com.hybris.clavrit.facades.suggestion.impl.DefaultSimpleSuggestionFacadeTest</testclass></clavritfacades></testclasses>
